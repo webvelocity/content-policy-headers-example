@@ -5,5 +5,5 @@ Security Headers  Strict Transport Security
 This is a example on how to apply Content Security Policies to a web applications.
 
 # Resources
-https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Strict-Transport-Security \n
 https://content-security-policy.com/
