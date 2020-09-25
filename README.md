@@ -1,4 +1,4 @@
-# Content Security Policy Headers via htaccess example
+# Content Security Policy Headers using .htaccess example
 Security Headers  Strict Transport Security
 
 # About
